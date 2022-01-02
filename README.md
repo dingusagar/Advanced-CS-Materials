@@ -11,5 +11,5 @@ TITLE WITH HYPERLINK : SHORT POINTS ABOUT THE CONTENTS.
 1. [Inside the Java Virtual Machine](https://www.artima.com/insidejvm/ed2/jvmP.html) : JVM internals, how object references are managed, heap,stack and method area, garbage collection.
 
 
-
-
+## Data Analytics
+1. [Pivot and Pivot_tables in Pandas](https://youtu.be/xPPs59pn6qU) : pivot tables for slicing and aggregating pandas dataframe
