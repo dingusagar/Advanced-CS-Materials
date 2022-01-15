@@ -13,3 +13,4 @@ TITLE WITH HYPERLINK : SHORT POINTS ABOUT THE CONTENTS.
 
 ## Data Analytics
 1. [Pivot and Pivot_tables in Pandas](https://youtu.be/xPPs59pn6qU) : pivot tables for slicing and aggregating pandas dataframe
+2. [Introduction to Geospatial Data Analysis with Python | SciPy 2018 Tutorial | Serge Rey](https://youtu.be/kJXUUO5M4ok) : geopandas, points, polygons, geospacial relationships, regression with spacial features.
