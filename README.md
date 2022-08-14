@@ -16,6 +16,10 @@ TITLE WITH HYPERLINK : SHORT POINTS ABOUT THE CONTENTS.
 2. [Introduction to Geospatial Data Analysis with Python | SciPy 2018 Tutorial | Serge Rey](https://youtu.be/kJXUUO5M4ok) : geopandas, points, polygons, geospacial relationships, regression with spacial features.
 
 
-## Deep Learning Stuffs
+## Deep Learning Software Stuffs
 1. [PyTorch Autograd Explained - In-depth Tutorial](https://youtu.be/MswxJw-8PvE) : explains how forward and backward graph is build internally for computing gradients.
 2. [MLOps Hands-on](https://github.com/graviraja/MLOps-Basics)
+
+
+## Deep Learning Theory Stuffs
+1. [KL Divergence](https://youtu.be/SxGYPqCgJWM) : to measure the distance between probablity distributions.
